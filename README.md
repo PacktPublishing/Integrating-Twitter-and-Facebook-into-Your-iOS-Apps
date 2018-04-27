@@ -11,13 +11,14 @@ Finally, you'll explore the Facebook API. Step by step, you'll install it and in
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Prepare your environment for iOS 11 development 
-<LI>Understand the fundamentals of programming with the Swift 4 programming language 
-<LI>Integrate with iOS and improve the user experience with app extensions 
-<LI>Implement a dynamic and interactive interface in an iOS app 
-<LI>Build your own custom UIViews through code or the interface builder 
-<LI>Improve UI and UITableView in your apps 
-<LI>Build additional layers and behaviors into your applications for custom actions </LI></UL></DIV>
+<LI>How to create Twitter API apps 
+<LI>Authenticate a user with Twitter
+<LI>Downloading a user's home timeline on their behalf 
+<LI>Working with CollectionViews 
+<LI>Creating a Facebook API app 
+<LI>Authenticating a user with Facebook
+<LI>Downloading data from an API 
+<LI>Allowing social login in an app  </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
